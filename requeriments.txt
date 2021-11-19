@@ -1,0 +1,6 @@
+pywhatkit
+SpeechRecognition
+gtts
+playsound
+chatterbot==1.0.4
+pytz
